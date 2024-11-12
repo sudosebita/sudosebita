@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I’m passionate about web development, machine le
 
 ## 📈 GitHub Stats
 
-![Sebas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudosebita&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudosebita&layout=compact)
+![Sebas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudosebita&show_icons=true&theme=auto)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudosebita&layout=compact&theme=auto)
 
 ---
 
